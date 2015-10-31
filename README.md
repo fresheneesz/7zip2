@@ -7,6 +7,11 @@ This repository is a fork of the [7zip SourceForge project](https://sourceforge.
 
 Please look here to find out how to build the source on windows: http://www.ski-epic.com/2012_compiling_7zip_on_windows_with_visual_studio_10/index.html
 
+CONTRIBUTORS NEEDED
+===================
+
+I don't have the bandwidth to actively move this project forward. If anyone is interested in collaborating in this project please contact me. 
+
 Description of 7-Zip sources package
 ===================================
 
